@@ -6,7 +6,8 @@
 -- Tiempo de generación: 10-05-2023 a las 12:28:32
 -- Versión del servidor: 10.11.2-MariaDB-1:10.11.2+maria~ubu2204
 -- Versión de PHP: 8.1.17
-
+create database tattoo;
+use tattoo;
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
 SET time_zone = "+00:00";
